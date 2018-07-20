@@ -1,0 +1,24 @@
+# Gradle
+gradle-app.setting
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# VSCode
+.vscode/
+
+# sbt
+target/
